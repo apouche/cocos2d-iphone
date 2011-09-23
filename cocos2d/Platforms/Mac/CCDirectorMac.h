@@ -31,7 +31,7 @@
 #elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
 
 #import <QuartzCore/CVDisplayLink.h>
-#import "../../CCDirector.h"
+#import "CCDirector.h"
 
 enum  {
 	/// If the window is resized, it won't be autoscaled

@@ -29,9 +29,9 @@
 #import <Availability.h>
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED
 #import <UIKit/UIKit.h>					// Needed for UIAccelerometerDelegate
-#import "Platforms/iOS/CCTouchDelegateProtocol.h"		// Touches only supported on iOS
+#import "CCTouchDelegateProtocol.h"		// Touches only supported on iOS
 #elif defined(__MAC_OS_X_VERSION_MAX_ALLOWED)
-#import "Platforms/Mac/CCEventDispatcher.h"
+#import "CCEventDispatcher.h"
 #endif
 
 #import "CCProtocols.h"

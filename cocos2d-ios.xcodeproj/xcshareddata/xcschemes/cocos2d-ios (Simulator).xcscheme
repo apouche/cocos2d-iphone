@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   version = "1.8">
+   version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
@@ -13,9 +13,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5018F24C0DFDEAC400C013A5"
-               BuildableName = "libcocos2d-iosDevice.a"
-               BlueprintName = "cocos2d-ios (Device)"
+               BlueprintIdentifier = "041FCA98142CB5B100D4D4CE"
+               BuildableName = "libcocos2d-iosSimulator.a"
+               BlueprintName = "cocos2d-ios (Simulator)"
                ReferencedContainer = "container:cocos2d-ios.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,18 +32,13 @@
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.GDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.GDB"
-      displayScaleIsEnabled = "NO"
-      displayScale = "1.00"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Debug"
-      enablesOpenGLESFrameCapture = "YES">
+      buildConfiguration = "Debug">
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
-      displayScaleIsEnabled = "NO"
-      displayScale = "1.00"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"

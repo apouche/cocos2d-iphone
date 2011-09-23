@@ -24,7 +24,7 @@
  */
 
 
-#import "Platforms/CCGL.h"
+#import "CCGL.h"
 #import "CCGrabber.h"
 #import "ccMacros.h"
 #import "CCTexture2D.h"

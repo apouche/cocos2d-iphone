@@ -32,9 +32,9 @@
 #import <Cocoa/Cocoa.h>
 
 #import "MacGLView.h"
-#import "../../Support/uthash.h"	// hack: uthash needs to be imported before utlist to prevent warning
-#import "../../Support/utlist.h"
-#import "../../ccConfig.h"
+#import "uthash.h"	// hack: uthash needs to be imported before utlist to prevent warning
+#import "utlist.h"
+#import "ccConfig.h"
 
 #pragma mark -
 #pragma mark CCMouseEventDelegate

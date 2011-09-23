@@ -28,7 +28,7 @@
 #import "ccTypes.h"
 
 // OpenGL related
-#import "Platforms/CCGL.h"
+#import "CCGL.h"
 #import "CCProtocols.h"
 
 /** @typedef ccDirectorProjection

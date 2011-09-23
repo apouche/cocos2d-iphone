@@ -27,13 +27,13 @@
 
 #import <Availability.h>
 
-#import "Platforms/CCGL.h"
+#import "CCGL.h"
 #import "CCAction.h"
 #import "ccTypes.h"
 #import "CCTexture2D.h"
 #import "CCProtocols.h"
 #import "ccConfig.h"
-#import "Support/CCArray.h"
+#import "CCArray.h"
 
 enum {
 	kCCNodeTagInvalid = -1,

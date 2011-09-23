@@ -26,7 +26,7 @@
 #import <Foundation/Foundation.h>
 #import "CCNode.h"
 #import "CCSprite.h"
-#import "Support/OpenGL_Internal.h"
+#import "OpenGL_Internal.h"
 
 #import <Availability.h>
 #ifdef __IPHONE_OS_VERSION_MAX_ALLOWED

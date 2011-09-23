@@ -25,7 +25,7 @@
 
 
 
-#import "Support/uthash.h"
+#import "uthash.h"
 #import "ccTypes.h"
 
 typedef void (*TICK_IMP)(id, SEL, ccTime);

@@ -31,7 +31,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-#import "../../ccConfig.h"
+#import "ccConfig.h"
 
 //PROTOCOLS:
 
